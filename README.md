@@ -1,4 +1,4 @@
-# HOgit Esto es el titulo RIVER
+# HOgit Esto es el titulo RIVER PLATE TU GRATO NOMBRE
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
