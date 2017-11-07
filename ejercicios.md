@@ -1,4 +1,3 @@
-#Qué opinamos de los ejercicios?
+#hay que tomar la de...?
 
-Incluso mejor que las charlas!
-
+Olmedo!
